@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head><meta charset="utf-8"><title>Local CTR Test</title></head>
+  <body>
+    <h1>CTR Test Page</h1>
+    <button id="cta-button" onclick="clickHandler()">Click me</button>
+    <p id="log"></p>
+    <script>
+      let count = 0;
+      function clickHandler() {
+        count++;
+        document.getElementById('log').innerText = 'Clicked: ' + count;
+      }
+    </script>
+  </body>
+</html>
