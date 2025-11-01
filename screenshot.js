@@ -6,7 +6,7 @@ const puppeteer = require("puppeteer");
   await page.goto("https://www.youtube.com/");
 
   //screenshot
-  await page.screenshot({ path: "screenshot.png", fullPage: true });
+  await page.screenshot({ path: "screenshots/screenshot.png", fullPage: true });
  
   await browser.close();
   console.log("✅ Screenshot saved as screenshot.png");
