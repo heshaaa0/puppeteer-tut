@@ -7,7 +7,7 @@ const puppeteer = require("puppeteer");
 
   //screenshot
   await page.screenshot({ path: "screenshot.png", fullPage: true });
-
+ 
   await browser.close();
   console.log("✅ Screenshot saved as screenshot.png");
 })();

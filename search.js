@@ -29,7 +29,7 @@ function sleep(ms) {
   await page.keyboard.press('Enter');
 
   // Move mouse & wait randomly
-  await page.mouse.move(100, 200);
+  await page.mouse.move(100, 200); 
   await sleep(1000 + Math.random() * 1000);
 
   // Scroll a bit
