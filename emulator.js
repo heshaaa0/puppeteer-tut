@@ -13,3 +13,5 @@ const iPhone = KnownDevices['iPhone 6'];
   console.log('Emulated iPhone 6 successfully');
 //   await browser.close();
 })();
+                                               
+
