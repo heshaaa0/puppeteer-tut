@@ -13,8 +13,9 @@
     "http-server": "^14.1.1"
   },
   "dependencies": {
-    "puppeteer": "^24.27.0",
+    "puppeteer": "^24.29.0",
     "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }

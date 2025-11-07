@@ -130,3 +130,603 @@
 [2025-11-01T07:54:27.887Z] Telegram env vars missing — skipping send. BOT=(empty) CHAT=(empty)
 [2025-11-01T07:54:38.090Z] 2025-11-01T07-54-28.521Z - Visit failed for leizelaser.com: page.$x is not a function
 [2025-11-01T07:54:38.091Z] Telegram env vars missing — skipping send. BOT=(empty) CHAT=(empty)
+[2025-11-06T03:41:12.320Z] Starting visit loop...
+[2025-11-06T03:41:13.085Z] Visiting keyword: makadhillsaklub -> https://makadhillsaklub.com
+[2025-11-06T03:41:13.086Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:41:13.408Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:41:16.451Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-41-16.235Z.png
+[2025-11-06T03:41:26.136Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-41-21.636Z.png
+[2025-11-06T03:41:26.756Z] Analytics simulation attempted for https://makadhillsaklub.com (mobile)
+[2025-11-06T03:41:41.007Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-41-36.785Z.png
+[2025-11-06T03:41:45.269Z] simulateAnalytics error: Protocol error (Runtime.callFunctionOn): Target closed
+[2025-11-06T03:41:50.685Z] Sleeping 3s before next run...
+[2025-11-06T03:41:53.698Z] Visiting keyword: makadhillsaklub -> https://makadhillsaklub.com
+[2025-11-06T03:41:53.699Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:41:53.992Z] Using desktop profile
+[2025-11-06T03:41:56.268Z] Screenshot failed: Protocol error (Page.captureScreenshot): Session closed. Most likely the page has been closed.
+[2025-11-06T03:41:59.471Z] Error visiting makadhillsaklub: Attempted to use detached Frame 'BCCB3E7D8794E9FACBB9D73C9AC0CF13'.
+[2025-11-06T03:42:04.640Z] Starting visit loop...
+[2025-11-06T03:42:05.295Z] Visiting keyword: makadhillsaklub -> https://makadhillsaklub.com
+[2025-11-06T03:42:05.295Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:42:05.620Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:42:10.633Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-42-09.573Z.png
+[2025-11-06T03:42:22.297Z] Screenshot failed: Protocol error (Page.captureScreenshot): Target closed
+[2025-11-06T03:42:22.299Z] simulateAnalytics error: Attempted to use detached Frame '2A3669A66C22E865FD31B9D786D23C22'.
+[2025-11-06T03:42:22.299Z] Error visiting makadhillsaklub: Attempted to use detached Frame '2A3669A66C22E865FD31B9D786D23C22'.
+[2025-11-06T03:42:25.263Z] Sleeping 3s before next run...
+[2025-11-06T03:42:53.489Z] Starting visit loop...
+[2025-11-06T03:42:54.195Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:42:54.195Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:42:54.525Z] Using desktop profile
+[2025-11-06T03:42:56.852Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-42-56.768Z.png
+[2025-11-06T03:43:01.258Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-43-00.884Z.png
+[2025-11-06T03:43:01.928Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:43:13.658Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-43-11.991Z.png
+[2025-11-06T03:43:18.689Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:43:22.975Z] Sleeping 3s before next run...
+[2025-11-06T03:43:25.989Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:43:25.989Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:43:26.216Z] Using desktop profile
+[2025-11-06T03:43:28.427Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-43-28.297Z.png
+[2025-11-06T03:43:36.613Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-43-35.083Z.png
+[2025-11-06T03:43:37.227Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:43:48.968Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-43-47.235Z.png
+[2025-11-06T03:43:53.796Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:43:57.218Z] Sleeping 3s before next run...
+[2025-11-06T03:44:00.228Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:44:00.228Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:44:00.472Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:44:02.941Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-44-02.777Z.png
+[2025-11-06T03:44:08.536Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-44-07.235Z.png
+[2025-11-06T03:44:09.225Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:44:21.268Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-44-19.293Z.png
+[2025-11-06T03:44:26.528Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:44:32.100Z] Sleeping 3s before next run...
+[2025-11-06T03:44:35.110Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:44:35.111Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:44:35.394Z] Using mobile profile: Pixel-7-like
+[2025-11-06T03:44:37.281Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-44-37.127Z.png
+[2025-11-06T03:44:45.304Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-44-43.331Z.png
+[2025-11-06T03:44:45.911Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:44:57.254Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-44-56.130Z.png
+[2025-11-06T03:45:01.765Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:45:07.478Z] Sleeping 3s before next run...
+[2025-11-06T03:45:10.480Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:45:10.481Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:45:10.775Z] Using mobile profile: Pixel-7-like
+[2025-11-06T03:45:13.402Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-45-13.250Z.png
+[2025-11-06T03:45:16.295Z] Error visiting makadhillsaklub: Attempted to use detached Frame '1C58DD653EAAF5CEBE48F22FF61E5786'.
+[2025-11-06T03:45:18.716Z] Sleeping 3s before next run...
+[2025-11-06T03:45:21.722Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:45:21.722Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:45:22.004Z] Using desktop profile
+[2025-11-06T03:45:23.884Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-45-23.783Z.png
+[2025-11-06T03:45:28.299Z] Error visiting makadhillsaklub: Attempted to use detached Frame 'F0089641975446BA5A42FEEFF08065E2'.
+[2025-11-06T03:45:32.399Z] Sleeping 3s before next run...
+[2025-11-06T03:45:35.400Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:45:35.401Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:45:35.685Z] Using desktop profile
+[2025-11-06T03:45:38.253Z] Screenshot failed: Protocol error (Page.captureScreenshot): Session closed. Most likely the page has been closed.
+[2025-11-06T03:45:40.934Z] Error visiting makadhillsaklub: Attempted to use detached Frame 'E872F3E17F0E86ECE03B1D3B0C3A471F'.
+[2025-11-06T03:45:46.299Z] Sleeping 3s before next run...
+[2025-11-06T03:45:49.312Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:45:49.313Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:45:49.546Z] Using mobile profile: iPhone-14-like
+[2025-11-06T03:45:52.345Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-45-52.199Z.png
+[2025-11-06T03:45:57.384Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-45-56.455Z.png
+[2025-11-06T03:45:58.030Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:46:10.064Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-46-08.302Z.png
+[2025-11-06T03:46:14.122Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:46:19.161Z] Sleeping 3s before next run...
+[2025-11-06T03:46:22.173Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:46:22.173Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:46:22.455Z] Using mobile profile: iPhone-14-like
+[2025-11-06T03:46:26.211Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-46-25.184Z.png
+[2025-11-06T03:46:32.249Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-46-31.299Z.png
+[2025-11-06T03:46:32.853Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:46:45.027Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-46-43.038Z.png
+[2025-11-06T03:46:48.084Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:46:51.920Z] Sleeping 3s before next run...
+[2025-11-06T03:46:54.925Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:46:54.925Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:46:55.212Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:46:58.043Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-46-57.870Z.png
+[2025-11-06T03:47:00.607Z] Error visiting makadhillsaklub: Attempted to use detached Frame 'C0F9D8946AAD9687ED200E170AEED1D8'.
+[2025-11-06T03:47:06.505Z] Sleeping 3s before next run...
+[2025-11-06T03:47:09.513Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:47:09.513Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:47:09.753Z] Using mobile profile: Pixel-7-like
+[2025-11-06T03:47:13.788Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-47-12.390Z.png
+[2025-11-06T03:47:21.687Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-47-19.743Z.png
+[2025-11-06T03:47:22.284Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:47:33.017Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-47-32.296Z.png
+[2025-11-06T03:47:37.202Z] simulateAnalytics error: Attempted to use detached Frame 'F691BCC5910FBBADA533F5D09BC6B4CC'.
+[2025-11-06T03:47:41.557Z] Sleeping 3s before next run...
+[2025-11-06T03:47:44.558Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:47:44.559Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:47:44.842Z] Using desktop profile
+[2025-11-06T03:47:47.249Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-47-47.167Z.png
+[2025-11-06T03:47:54.965Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-47-53.491Z.png
+[2025-11-06T03:47:55.582Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:48:07.261Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-48-05.768Z.png
+[2025-11-06T03:48:12.634Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:48:18.293Z] Sleeping 3s before next run...
+[2025-11-06T03:48:21.307Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:48:21.307Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:48:21.594Z] Using mobile profile: Pixel-7-like
+[2025-11-06T03:48:25.266Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-48-23.872Z.png
+[2025-11-06T03:48:34.437Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-48-32.283Z.png
+[2025-11-06T03:48:35.113Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:48:45.903Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-48-45.178Z.png
+[2025-11-06T03:48:49.013Z] Analytics simulation attempted for https://200msl.com/ (mobile)
+[2025-11-06T03:48:52.003Z] Sleeping 3s before next run...
+[2025-11-06T03:48:55.010Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:48:55.010Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:48:55.306Z] Using desktop profile
+[2025-11-06T03:48:59.176Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-48-57.910Z.png
+[2025-11-06T03:49:05.900Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-49-04.282Z.png
+[2025-11-06T03:49:06.575Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:49:18.190Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-scrolled-2025-11-06T03-49-16.595Z.png
+[2025-11-06T03:49:21.942Z] Analytics simulation attempted for https://200msl.com/ (desktop)
+[2025-11-06T03:49:24.516Z] Sleeping 3s before next run...
+[2025-11-06T03:49:27.525Z] Visiting keyword: makadhillsaklub -> https://200msl.com/
+[2025-11-06T03:49:27.525Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:49:27.820Z] Using desktop profile
+[2025-11-06T03:49:30.013Z] Screenshot failed: Protocol error (Page.captureScreenshot): Session closed. Most likely the page has been closed.
+[2025-11-06T03:51:10.681Z] Starting visit loop...
+[2025-11-06T03:51:11.367Z] Visiting keyword: makadhillsaklub -> https://www.youtube.com/
+[2025-11-06T03:51:11.367Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:51:11.720Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:51:14.474Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-51-14.308Z.png
+[2025-11-06T03:51:23.319Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-landing-page-2025-11-06T03-51-22.183Z.png
+[2025-11-06T03:51:24.121Z] Analytics simulation attempted for https://www.youtube.com/ (mobile)
+[2025-11-06T03:51:27.011Z] Error visiting makadhillsaklub: Execution context was destroyed
+[2025-11-06T03:51:31.247Z] Sleeping 3s before next run...
+[2025-11-06T03:51:34.251Z] Visiting keyword: makadhillsaklub -> https://www.youtube.com/
+[2025-11-06T03:51:34.251Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-06T03:51:34.549Z] Using mobile profile: Samsung-S22-like
+[2025-11-06T03:51:36.844Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-makadhillsaklub-google-search-highlighted-2025-11-06T03-51-36.678Z.png
+[2025-11-06T03:51:41.263Z] Error visiting makadhillsaklub: Attempted to use detached Frame '575713144108FB92C7E07C0927CB8180'.
+[2025-11-06T04:07:55.164Z] Starting visit loop...
+[2025-11-06T04:07:55.869Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:08:00.404Z] Opened YouTube homepage
+[2025-11-06T04:08:30.426Z] Error visiting YouTube: Waiting for selector `input#search` failed
+[2025-11-06T04:08:34.915Z] Sleeping 3s before next run...
+[2025-11-06T04:08:37.917Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:08:42.373Z] Opened YouTube homepage
+[2025-11-06T04:09:12.393Z] Error visiting YouTube: Waiting for selector `input#search` failed
+[2025-11-06T04:09:16.012Z] Sleeping 3s before next run...
+[2025-11-06T04:09:19.015Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:09:23.708Z] Opened YouTube homepage
+[2025-11-06T04:09:53.714Z] Error visiting YouTube: Waiting for selector `input#search` failed
+[2025-11-06T04:09:59.351Z] Sleeping 3s before next run...
+[2025-11-06T04:10:02.359Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:10:08.905Z] Opened YouTube homepage
+[2025-11-06T04:10:38.926Z] Error visiting YouTube: Waiting for selector `input#search` failed
+[2025-11-06T04:10:43.797Z] Sleeping 3s before next run...
+[2025-11-06T04:10:46.799Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:10:51.474Z] Opened YouTube homepage
+[2025-11-06T04:11:12.268Z] Error visiting YouTube: Waiting for selector `input#search` failed
+[2025-11-06T04:11:17.080Z] Sleeping 3s before next run...
+[2025-11-06T04:11:19.580Z] Starting visit loop...
+[2025-11-06T04:11:20.353Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:11:22.974Z] Opened YouTube homepage
+[2025-11-06T04:11:23.066Z] Handled cookie consent popup if present
+[2025-11-06T04:11:38.078Z] Search box not found immediately, reloading...
+[2025-11-06T04:11:48.680Z] Error visiting YouTube: Waiting for selector `input#search, input[aria-label="Search"]` failed
+[2025-11-06T04:11:52.840Z] Sleeping 3s before next run...
+[2025-11-06T04:11:55.851Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:12:00.837Z] Opened YouTube homepage
+[2025-11-06T04:12:00.925Z] Handled cookie consent popup if present
+[2025-11-06T04:12:15.927Z] Search box not found immediately, reloading...
+[2025-11-06T04:12:22.817Z] Error visiting YouTube: Waiting for selector `input#search, input[aria-label="Search"]` failed
+[2025-11-06T04:12:41.016Z] Starting visit loop...
+[2025-11-06T04:12:41.706Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:12:45.517Z] Opened YouTube homepage
+[2025-11-06T04:12:45.533Z] Handled cookie consent popup if present
+[2025-11-06T04:13:00.546Z] Search box not found immediately, reloading...
+[2025-11-06T04:13:11.166Z] Error visiting YouTube: Waiting for selector `input#search, input[aria-label="Search"]` failed
+[2025-11-06T04:13:14.804Z] Sleeping 3s before next run...
+[2025-11-06T04:13:17.814Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:13:22.076Z] Opened YouTube homepage
+[2025-11-06T04:13:22.097Z] Handled cookie consent popup if present
+[2025-11-06T04:13:37.114Z] Search box not found immediately, reloading...
+[2025-11-06T04:13:47.721Z] Error visiting YouTube: Waiting for selector `input#search, input[aria-label="Search"]` failed
+[2025-11-06T04:13:53.432Z] Sleeping 3s before next run...
+[2025-11-06T04:13:56.447Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:13:59.635Z] Opened YouTube homepage
+[2025-11-06T04:13:59.672Z] Handled cookie consent popup if present
+[2025-11-06T04:14:14.679Z] Search box not found immediately, reloading...
+[2025-11-06T04:14:25.463Z] Error visiting YouTube: Waiting for selector `input#search, input[aria-label="Search"]` failed
+[2025-11-06T04:14:30.173Z] Sleeping 3s before next run...
+[2025-11-06T04:14:33.182Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:14:36.252Z] Opened YouTube homepage
+[2025-11-06T04:14:36.278Z] No consent popup found
+[2025-11-06T04:14:36.391Z] Search box not found immediately, reloading...
+[2025-11-06T04:14:36.391Z] Error visiting YouTube: Attempted to use detached Frame '4CE10F26A13CAC2A6DAABB69C3C531C3'.
+[2025-11-06T04:14:41.887Z] Sleeping 3s before next run...
+[2025-11-06T04:14:44.897Z] Visiting YouTube channel search: Tech Tales with Mani
+[2025-11-06T04:14:48.021Z] Opened YouTube homepage
+[2025-11-06T04:14:48.039Z] Handled cookie consent popup if present
+[2025-11-06T04:14:59.285Z] Search box not found immediately, reloading...
+[2025-11-06T04:14:59.285Z] Error visiting YouTube: Attempted to use detached Frame '367AE52DE144C08F7662F7A565F404D3'.
+[2025-11-06T04:15:02.906Z] Sleeping 3s before next run...
+[2025-11-06T04:15:06.639Z] Starting visit loop...
+[2025-11-06T04:15:07.347Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:15:12.722Z] Opened channel: https://www.youtube.com/
+[2025-11-06T04:15:32.741Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:15:35.078Z] Sleeping 3s before next run...
+[2025-11-06T04:15:38.095Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:15:42.525Z] Opened channel: https://www.youtube.com/
+[2025-11-06T04:16:02.534Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:16:05.646Z] Sleeping 3s before next run...
+[2025-11-06T04:16:08.671Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:16:13.663Z] Opened channel: https://www.youtube.com/
+[2025-11-06T04:16:33.665Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:16:38.047Z] Sleeping 3s before next run...
+[2025-11-06T04:16:41.957Z] Starting visit loop...
+[2025-11-06T04:16:42.721Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:16:46.662Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:17:06.670Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:17:09.251Z] Sleeping 3s before next run...
+[2025-11-06T04:17:12.253Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:17:15.720Z] Error visiting YouTube channel: Navigating frame was detached
+[2025-11-06T04:17:20.840Z] Sleeping 3s before next run...
+[2025-11-06T04:17:23.843Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:17:28.492Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:17:48.511Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:17:52.909Z] Sleeping 3s before next run...
+[2025-11-06T04:17:55.925Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:18:00.636Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:18:20.650Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:18:25.211Z] Sleeping 3s before next run...
+[2025-11-06T04:18:28.218Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:18:32.656Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:18:52.667Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:18:57.732Z] Sleeping 3s before next run...
+[2025-11-06T04:19:00.747Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:19:05.180Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:19:25.194Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:19:28.643Z] Sleeping 3s before next run...
+[2025-11-06T04:19:31.657Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:19:34.609Z] Error visiting YouTube channel: Navigating frame was detached
+[2025-11-06T04:19:38.067Z] Sleeping 3s before next run...
+[2025-11-06T04:19:41.074Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:19:45.193Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:20:05.201Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:20:09.444Z] Sleeping 3s before next run...
+[2025-11-06T04:20:12.450Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:20:17.114Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:20:37.121Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:20:41.405Z] Sleeping 3s before next run...
+[2025-11-06T04:20:44.420Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:20:48.450Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:21:08.457Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:21:13.440Z] Sleeping 3s before next run...
+[2025-11-06T04:21:16.448Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:21:20.899Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:21:40.901Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:21:44.671Z] Sleeping 3s before next run...
+[2025-11-06T04:21:47.675Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:21:52.075Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:22:04.243Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:22:07.458Z] Sleeping 3s before next run...
+[2025-11-06T04:22:15.553Z] Starting visit loop...
+[2025-11-06T04:22:16.238Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:22:20.667Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:22:40.690Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:22:43.887Z] Sleeping 3s before next run...
+[2025-11-06T04:22:46.901Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:22:51.007Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:23:11.013Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:23:16.913Z] Sleeping 3s before next run...
+[2025-11-06T04:23:19.918Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:23:23.833Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:23:43.849Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:23:46.306Z] Sleeping 3s before next run...
+[2025-11-06T04:23:49.313Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:23:53.351Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:24:13.359Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:24:15.637Z] Sleeping 3s before next run...
+[2025-11-06T04:24:18.653Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:24:22.955Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:24:42.969Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:24:46.079Z] Sleeping 3s before next run...
+[2025-11-06T04:24:49.086Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:24:52.955Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:25:12.964Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:25:17.583Z] Sleeping 3s before next run...
+[2025-11-06T04:25:20.601Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:25:25.532Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:25:45.534Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:25:49.117Z] Sleeping 3s before next run...
+[2025-11-06T04:25:52.125Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:25:56.379Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:26:16.382Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:26:20.496Z] Sleeping 3s before next run...
+[2025-11-06T04:26:23.506Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:26:27.494Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:26:47.502Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:26:53.632Z] Sleeping 3s before next run...
+[2025-11-06T04:26:56.643Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:27:00.727Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:27:20.737Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:27:24.097Z] Sleeping 3s before next run...
+[2025-11-06T04:27:27.104Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:27:38.487Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:27:58.502Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:28:04.405Z] Sleeping 3s before next run...
+[2025-11-06T04:28:07.411Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:28:11.303Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:28:31.320Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:28:33.791Z] Sleeping 3s before next run...
+[2025-11-06T04:28:36.795Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:28:41.393Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:29:01.405Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:29:07.334Z] Sleeping 3s before next run...
+[2025-11-06T04:29:10.343Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:29:15.134Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:29:35.144Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:29:38.185Z] Sleeping 3s before next run...
+[2025-11-06T04:29:41.191Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:29:45.593Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:30:05.601Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:30:11.150Z] Sleeping 3s before next run...
+[2025-11-06T04:30:14.160Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:30:18.950Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:30:38.957Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:30:43.046Z] Sleeping 3s before next run...
+[2025-11-06T04:30:46.049Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:30:50.520Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:31:10.535Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:31:13.213Z] Sleeping 3s before next run...
+[2025-11-06T04:31:16.221Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:31:20.270Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:31:40.289Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:31:43.170Z] Sleeping 3s before next run...
+[2025-11-06T04:31:46.180Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:31:50.925Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:32:10.931Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:32:16.116Z] Sleeping 3s before next run...
+[2025-11-06T04:32:19.116Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:32:23.246Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:32:43.255Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:32:46.219Z] Sleeping 3s before next run...
+[2025-11-06T04:32:49.222Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:32:53.790Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:33:13.806Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:33:18.012Z] Sleeping 3s before next run...
+[2025-11-06T04:33:21.022Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:33:25.587Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:33:45.595Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:33:48.165Z] Sleeping 3s before next run...
+[2025-11-06T04:33:51.171Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:33:55.576Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:34:15.583Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:34:21.061Z] Sleeping 3s before next run...
+[2025-11-06T04:34:24.067Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:34:28.545Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:34:48.556Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:34:51.210Z] Sleeping 3s before next run...
+[2025-11-06T04:34:54.219Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:34:58.446Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:35:18.459Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:35:24.572Z] Sleeping 3s before next run...
+[2025-11-06T04:35:27.580Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:35:32.016Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:35:52.027Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:35:56.283Z] Sleeping 3s before next run...
+[2025-11-06T04:35:59.298Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:36:03.595Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:36:23.600Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:36:29.207Z] Sleeping 3s before next run...
+[2025-11-06T04:36:32.221Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:36:36.672Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:36:56.679Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:36:59.392Z] Sleeping 3s before next run...
+[2025-11-06T04:37:02.398Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:37:06.328Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:37:26.332Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:37:31.306Z] Sleeping 3s before next run...
+[2025-11-06T04:37:34.309Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:37:38.685Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:37:58.697Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:38:01.824Z] Sleeping 3s before next run...
+[2025-11-06T04:38:04.839Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:38:09.165Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:38:29.171Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:38:31.841Z] Sleeping 3s before next run...
+[2025-11-06T04:38:34.853Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:38:39.671Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:38:59.689Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:39:01.975Z] Sleeping 3s before next run...
+[2025-11-06T04:39:04.990Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:39:08.958Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:39:28.962Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:39:34.090Z] Sleeping 3s before next run...
+[2025-11-06T04:39:37.104Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:39:41.781Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:40:01.792Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:40:07.322Z] Sleeping 3s before next run...
+[2025-11-06T04:40:10.339Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:40:14.697Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:40:34.712Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:40:40.166Z] Sleeping 3s before next run...
+[2025-11-06T04:40:43.170Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:40:47.510Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:41:07.515Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:41:11.642Z] Sleeping 3s before next run...
+[2025-11-06T04:41:14.650Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:41:18.808Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:41:38.824Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:41:41.257Z] Sleeping 3s before next run...
+[2025-11-06T04:41:44.278Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:41:48.272Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:42:08.276Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:42:13.318Z] Sleeping 3s before next run...
+[2025-11-06T04:42:16.325Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:42:20.864Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:42:40.881Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:42:43.385Z] Sleeping 3s before next run...
+[2025-11-06T04:42:46.396Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:42:50.063Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:43:10.071Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:43:12.534Z] Sleeping 3s before next run...
+[2025-11-06T04:43:15.549Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:43:19.530Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:43:39.541Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:43:45.088Z] Sleeping 3s before next run...
+[2025-11-06T04:43:48.103Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:43:52.257Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:44:12.265Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:44:18.389Z] Sleeping 3s before next run...
+[2025-11-06T04:44:21.405Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:44:25.726Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:44:45.731Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:44:51.585Z] Sleeping 3s before next run...
+[2025-11-06T04:44:54.598Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:44:59.015Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:45:19.023Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:45:21.365Z] Sleeping 3s before next run...
+[2025-11-06T04:45:24.385Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:45:28.563Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:45:48.567Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:45:54.083Z] Sleeping 3s before next run...
+[2025-11-06T04:45:57.098Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:46:01.214Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:46:21.228Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:46:23.569Z] Sleeping 3s before next run...
+[2025-11-06T04:46:26.587Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:46:30.861Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:46:50.870Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:46:56.396Z] Sleeping 3s before next run...
+[2025-11-06T04:46:59.401Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:47:03.501Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:47:23.509Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:47:27.212Z] Sleeping 3s before next run...
+[2025-11-06T04:47:30.225Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:47:34.702Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:47:54.715Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:47:59.493Z] Sleeping 3s before next run...
+[2025-11-06T04:48:02.495Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:48:06.409Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:48:26.423Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:48:29.078Z] Sleeping 3s before next run...
+[2025-11-06T04:48:32.081Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:48:36.318Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:48:56.335Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:49:00.743Z] Sleeping 3s before next run...
+[2025-11-06T04:49:03.757Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:49:07.717Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:49:27.736Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:49:31.421Z] Sleeping 3s before next run...
+[2025-11-06T04:49:34.437Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:49:38.104Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:49:58.109Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:50:04.707Z] Sleeping 3s before next run...
+[2025-11-06T04:50:07.711Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:50:11.985Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:50:32.004Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:50:38.040Z] Sleeping 3s before next run...
+[2025-11-06T04:50:41.046Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:50:45.495Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:51:05.500Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:51:11.173Z] Sleeping 3s before next run...
+[2025-11-06T04:51:14.185Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:51:18.638Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:51:38.640Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:51:41.671Z] Sleeping 3s before next run...
+[2025-11-06T04:51:44.684Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:51:48.768Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:52:08.775Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:52:13.454Z] Sleeping 3s before next run...
+[2025-11-06T04:52:16.461Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:52:19.981Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:52:39.985Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:52:45.040Z] Sleeping 3s before next run...
+[2025-11-06T04:52:48.046Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:52:52.460Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:53:12.478Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:53:16.310Z] Sleeping 3s before next run...
+[2025-11-06T04:53:19.324Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:53:23.011Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:53:43.023Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:53:48.711Z] Sleeping 3s before next run...
+[2025-11-06T04:53:51.726Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:53:56.498Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:54:16.507Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:54:20.563Z] Sleeping 3s before next run...
+[2025-11-06T04:54:23.573Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:54:27.832Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:54:47.848Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:54:52.562Z] Sleeping 3s before next run...
+[2025-11-06T04:54:55.578Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:54:59.689Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:55:19.702Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:55:22.301Z] Sleeping 3s before next run...
+[2025-11-06T04:55:25.316Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:55:30.036Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:55:46.338Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:55:51.572Z] Sleeping 3s before next run...
+[2025-11-06T04:55:54.580Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:55:58.734Z] Opened channel: https://www.youtube.com/@TechTaleswithMani
+[2025-11-06T04:56:18.745Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:56:24.585Z] Sleeping 3s before next run...
+[2025-11-06T04:56:30.050Z] Starting visit loop...
+[2025-11-06T04:56:30.763Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:56:35.692Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:56:55.705Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:56:59.884Z] Sleeping 3s before next run...
+[2025-11-06T04:57:02.891Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:57:09.340Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:57:29.348Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:57:34.187Z] Sleeping 3s before next run...
+[2025-11-06T04:57:37.195Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:57:43.353Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:58:03.364Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:58:08.605Z] Starting visit loop...
+[2025-11-06T04:58:09.297Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:58:15.505Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:58:35.513Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:58:41.012Z] Sleeping 3s before next run...
+[2025-11-06T04:58:44.013Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:58:50.123Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:59:00.531Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:59:03.160Z] Sleeping 3s before next run...
+[2025-11-06T04:59:06.168Z] Visiting YouTube channel directly: Tech Tales with Mani
+[2025-11-06T04:59:11.359Z] Opened channel: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T04:59:11.937Z] Error visiting YouTube channel: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T04:59:15.788Z] Sleeping 3s before next run...
+[2025-11-06T05:02:50.087Z] Starting visit loop...
+[2025-11-06T05:02:50.781Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:02:56.471Z] Channel opened: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T05:03:16.475Z] Error: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T05:03:22.816Z] Sleeping 3s before next run...
+[2025-11-06T05:03:25.824Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:03:32.633Z] Channel opened: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T05:03:52.637Z] Error: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T05:03:58.812Z] Sleeping 3s before next run...
+[2025-11-06T05:04:01.821Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:04:08.221Z] Channel opened: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T05:04:28.225Z] Error: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T05:04:33.723Z] Sleeping 3s before next run...
+[2025-11-06T05:04:36.738Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:04:45.803Z] Channel opened: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T05:05:05.822Z] Error: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T05:05:11.902Z] Sleeping 3s before next run...
+[2025-11-06T05:05:14.916Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:05:19.376Z] Channel opened: https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw
+[2025-11-06T05:05:39.391Z] Error: Waiting for selector `ytd-grid-video-renderer a#thumbnail` failed
+[2025-11-06T05:05:44.683Z] Sleeping 3s before next run...
+[2025-11-06T05:05:47.685Z] Opening YouTube channel: Tech Tales with Mani
+[2025-11-06T05:05:51.754Z] Error: Navigating frame was detached
+[2025-11-07T04:41:08.150Z] Starting visit loop...
+[2025-11-07T04:41:18.753Z] Visiting keyword: DEPO89 -> https://elshehabfoundation.com/women-programe/
+[2025-11-07T04:41:18.754Z] Assuming VPN (UrbanVPN) is already active.
+[2025-11-07T04:41:19.227Z] Using desktop profile
+[2025-11-07T04:41:27.665Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-DEPO89-google-search-highlighted-2025-11-07T04-41-27.527Z.png
+[2025-11-07T04:41:38.182Z] Telegram send failed: fetch failed
+[2025-11-07T04:41:53.107Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-DEPO89-landing-page-2025-11-07T04-41-52.797Z.png
+[2025-11-07T04:41:55.944Z] Analytics simulation attempted for https://elshehabfoundation.com/women-programe/ (desktop)
+[2025-11-07T04:42:06.367Z] Saved screenshot: C:\Users\USER\Desktop\puppeteer ctr-sim\screenshots\screenshot-DEPO89-scrolled-2025-11-07T04-42-06.146Z.png
+[2025-11-07T04:42:12.818Z] Analytics simulation attempted for https://elshehabfoundation.com/women-programe/ (desktop)
