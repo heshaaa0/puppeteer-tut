@@ -40,7 +40,7 @@ try {
 const INTERVAL_MS = 3000; // keep original; change to 300000 for 5min between loops if desired
 const SCROLL_MS = 10000;
 const MAX_SCREENSHOTS = 200;
-const HEADLESS = false;
+const HEADLESS = true;
 
 // TELEGRAM
 const TELEGRAM_BOT_TOKEN = "8325236512:AAEyHIY75K3QUFLYeESJ4LpN2JD-d7SchW8";
@@ -59,7 +59,7 @@ const REPORT_DIR = path.join(__dirname, "report");
 const KEYWORDS = [
   {
     keyword: "Tech Tales with Mani",
-    domain: "https://youtu.be/TOwCU_OJicM?si=1I2HCP67nE8Je4Qw",
+    domain: "https://youtu.be/5iE6n5F17t0",
   },
 ];
 
@@ -450,7 +450,7 @@ async function startLoop() {
   while (true) {
     for (const kw of KEYWORDS) {
       await visitKeyword(kw);
-      await randomDelay(2000, 4000);
+      await randomDelay(6000, 8000);
     }
     writeLog(`Sleeping ${INTERVAL_MS / 1000}s before next run...`);
     await new Promise((r) => setTimeout(r, INTERVAL_MS));
