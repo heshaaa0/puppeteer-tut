@@ -54,28 +54,28 @@ function maskToken(token) {
 async function sendTelegramMessage(message, screenshotPath = null) {
   const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
   const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || '';
-
+  
   if (!fetchFunc) return writeLog('fetch not available — cannot send Telegram message.');
   if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
     const masked = `BOT=${maskToken(TELEGRAM_BOT_TOKEN)} CHAT=${TELEGRAM_CHAT_ID ? '(set)' : '(empty)'}`;
     writeLog(`Telegram env vars missing — skipping send. ${masked}`);
     return;
   }
-
+    
   const apiBase = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
-
+  
   try {
     const textResp = await fetchFunc(`${apiBase}/sendMessage`, {
-      method: 'POST',
+      method: 'POST', 
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: message, parse_mode: 'HTML' }),
     });
-
+    
     if (!textResp.ok) {
       const body = await safeRead(textResp);
       writeLog(`Telegram sendMessage failed: status=${textResp.status} body=${truncateStr(body, 1000)}`);
     } else { writeLog(`Telegram sendMessage succeeded: status=${textResp.status}`); }
-
+    
     if (screenshotPath && fs.existsSync(screenshotPath) && FormDataModule) {
       const form = new FormDataModule();
       form.append('chat_id', TELEGRAM_CHAT_ID);
@@ -135,7 +135,7 @@ async function visitKeyword(keywordObj) {
     const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}`;
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
     await randomDelay(2000);
-
+    
     // Scroll randomly
     await page.evaluate(() => window.scrollBy(0, Math.random() * 400));
     await randomDelay(1000);
@@ -166,11 +166,11 @@ async function visitKeyword(keywordObj) {
     } else {
       writeLog(`${timestamp} - Login button not found on ${targetLink}`);
     }
-
+   
     // 5️⃣ Screenshot
     const screenshotPath = path.join(SCREENSHOT_DIR, `screenshot-${keyword}-${timestamp}.png`);
     await page.screenshot({ path: screenshotPath, fullPage: true });
-    
+   
     const message = `${timestamp} - Keyword "${keyword}" visited and Login clicked on ${targetLink}`;
     console.log(message);
     writeLog(message);
