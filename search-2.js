@@ -121,16 +121,16 @@ async function visitKeyword(keywordObj) {
   try {
     browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
-
+    
     // Stealth + human-like behavior
     await page.setViewport({ width: 1366, height: 768 });
     await page.setUserAgent(
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36'
     );
-
+      
     // Random delay to simulate human
     const randomDelay = ms => new Promise(r => setTimeout(r, ms + Math.random() * 1500));
-
+    
     // 1️⃣ Google search
     const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(keyword)}`;
     await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
@@ -139,7 +139,7 @@ async function visitKeyword(keywordObj) {
     // Scroll randomly
     await page.evaluate(() => window.scrollBy(0, Math.random() * 400));
     await randomDelay(1000);
-
+    
     // 2️⃣ Find first result matching domain
     const links = await page.$$eval('a', anchors => anchors.map(a => a.href));
     const targetLink = links.find(link => link.includes(domain));
@@ -150,11 +150,11 @@ async function visitKeyword(keywordObj) {
       await sendTelegramMessage(msg);
       return;
     }
-
+     
     // 3️⃣ Open target site
     await page.goto(targetLink, { waitUntil: 'networkidle2', timeout: 30000 });
     await randomDelay(2000);
-
+    
     // 4️⃣ Click "Login" button
     const loginButton = await page.$x(`//*[contains(text(), 'Login') or contains(text(), 'LOGIN')]`);
     if (loginButton.length > 0) {
@@ -170,14 +170,14 @@ async function visitKeyword(keywordObj) {
     // 5️⃣ Screenshot
     const screenshotPath = path.join(SCREENSHOT_DIR, `screenshot-${keyword}-${timestamp}.png`);
     await page.screenshot({ path: screenshotPath, fullPage: true });
-
+    
     const message = `${timestamp} - Keyword "${keyword}" visited and Login clicked on ${targetLink}`;
     console.log(message);
     writeLog(message);
     await sendTelegramMessage(message, screenshotPath);
-
+    
     trimOldScreenshots();
-
+    
   } catch (err) {
     const msg = `${timestamp} - Visit failed for ${keyword}: ${err.message || err}`;
     console.error(msg);
@@ -188,7 +188,7 @@ async function visitKeyword(keywordObj) {
     isRunning = false;
   }
 }
-
+   
 // ---------------- RUN ----------------
 (async () => {
   process.on('unhandledRejection', r => writeLog(`UnhandledRejection: ${r}`));
